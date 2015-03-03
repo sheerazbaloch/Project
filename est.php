@@ -18,6 +18,6 @@ if ($error) {
     die();
  }
 
-this is main file
+this is branch file
 
  ?> 
